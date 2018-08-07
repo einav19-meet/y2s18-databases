@@ -22,5 +22,3 @@ class Knowledge(Base):
 x=Knowledge(knowledge_id=1, topic= "theater", article= "Theater | art", rate=10)
 
 print (x)
-
-
